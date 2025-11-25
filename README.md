@@ -57,7 +57,7 @@ The project implements the following **Use Cases (UC)**:
 ## Installation & Running Tests
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/SauceDemo-Automation.git
+    git clone https://github.com/GorKhurshudyan/SauceDemo-Automation.git
 
 2.   Navigate to the project folder
      ```bash
